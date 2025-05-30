@@ -1,8 +1,10 @@
-HEY.
-this is some information 💠
-
-LIST OF COMMANDS:
-  EVAN: dream game bunny pops up
-  CHEZ: chez come up 
-  exit: close dream game bunny and chez
-  bunny: bunny
+HEY!
+This are the command (for v2.5)
+Evan: spawn in bunny
+bunny2: spawn in 2 bunny
+Bunny3: spawn in 3 bunny
+bunny4: spawn in 4 bunny
+exit: close everything
+Qav45: optimus prime
+chez: spawn in chez
+(image)+(image): get you two image at the same time
